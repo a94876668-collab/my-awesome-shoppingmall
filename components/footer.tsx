@@ -12,7 +12,7 @@ export function Footer() {
     고객지원: [
       { label: "자주 묻는 질문", href: "#" },
       { label: "배송 정보", href: "#" },
-      { label: "반품 및 교환", href: "#" },
+      { label: "반품 및 교환", href: "/returns-exchange" },
       { label: "사이즈 가이드", href: "#" },
     ],
     법적고지: [
